@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "lender_id": 1,
+    "rule": "score_minimo",
+    "value": 600
+  },
+  {
+    "id": 2,
+    "lender_id": 2,
+    "rule": "score_minimo",
+    "value": 500
+  }
+]

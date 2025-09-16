@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "lender_id": 1,
+    "plan_name": "Pay-in-4",
+    "installments": 4,
+    "interest_rate": 0.0
+  },
+  {
+    "id": 2,
+    "lender_id": 2,
+    "plan_name": "Mensal 12x",
+    "installments": 12,
+    "interest_rate": 0.025
+  }
+]

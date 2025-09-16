@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Banco Alpha",
+    "country": "BR",
+    "rating": "A"
+  },
+  {
+    "id": 2,
+    "name": "Fintech Beta",
+    "country": "BR",
+    "rating": "B"
+  }
+]

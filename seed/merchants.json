@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Loja Tech",
+    "category": "Eletrônicos",
+    "country": "BR"
+  },
+  {
+    "id": 2,
+    "name": "Supermercado XPTO",
+    "category": "Alimentos",
+    "country": "BR"
+  }
+]
