@@ -24,6 +24,10 @@ def seed_data():
         risk_policy = load_json("seed/risk_policies.json")
         for ri in risk_policy:
             db.merge(RiskPolicy(**ri))
-    except
+        db.commit()
+        print("Dados inseridos.")
+    finally:
+        db.close()
+
         
     
