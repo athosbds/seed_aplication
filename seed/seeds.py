@@ -1,7 +1,7 @@
 import json
 from controllers.database import SessionLocal
 from controllers.models import Merchant, Lender, RateCard, RiskPolicy
-
+# CONFIGURAÇÃO PARA CARREGAR OS JSONS
 def load_json(file):
     with open(file, "r") as f:
         return json.load(f)

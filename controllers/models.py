@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Integer, String, Float, ForeignKey
 from .database import Base
 
+# CLASSES FEITA COM ORM SQLALCHEMY INTEGRADAS AO BANCO DE DADOS LOCAL
 class Merchant(Base):
     __tablename__ = "merchants"
 
